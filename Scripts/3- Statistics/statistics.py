@@ -128,4 +128,4 @@ if __name__ == "__main__":
 	generate_trace(APICLARITY_URL, apiId)
 	exit_code = '0'
 	while (not exit_code =='q'):
-		exit_code = input("Press q to exit")
+		exit_code = input("Press q to exit: ")

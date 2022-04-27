@@ -331,7 +331,8 @@
           {
             "api_key": []
           }
-        ]
+        ],
+        "deprecated": true
       },
       "post": {
         "tags": [
